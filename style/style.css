@@ -1,0 +1,249 @@
+/* navigation style */
+.nav{
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+   background-color: #F2F7FF;
+   
+  
+   
+}
+section header nav ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    
+}
+section header nav ul li a{
+text-decoration: none;
+color: #3A8EF6;
+font-size: 16px;
+font-weight: 500;
+
+}
+.btn{
+    height: 56px;
+    width: 291px;
+    background-color:#3A8EF6 ;
+    border-radius: 100px;
+    border-color: #3A8EF6;
+    font-size: 18px;
+    font-weight: 600;
+    color: white
+}
+.doctor{
+    font-size: 32px;
+    font-weight: bold;
+    color: #3A8EF6;
+}
+/* hero section design */
+.dr{
+    font-size: 22px;
+    font-weight: 400;
+    color: #00BFA5;
+    line-height: auto;
+    
+}
+.drt{
+    font-size: 48px;
+    font-weight: bold;
+}
+.ptext{
+    font-size: 16px;
+    font-weight: 400;
+}
+.hero{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    background-color: #F2F7FF;
+}
+  /* box section design   */
+  .boxs{
+    background-color:#3A8EF6;
+    border-radius: 12px;
+    width: 258px;
+    height: 100px;
+  }
+  .mbox{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    padding-left: 40px;
+    
+  }
+  .pbox{
+    font-size: 12px;
+    font-weight: 900;
+    color: white;
+    padding-left: 40px;
+ 
+  }
+  .main-box{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+       background-color: #F2F7FF;
+  }
+/* about section design */
+.dtc{
+    font-size: 32px;
+    font-weight: 800;
+}
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 90px;
+}
+/* service section */
+.about-service{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 90px;
+    background-color:#F2F7FF ;
+}
+/* card section design */
+.card-one{
+    width: 306px;
+    height: 461px;
+    border-radius: 24px;
+    background-color: white;
+}
+.gt{
+    font-size: 24px;
+    font-weight: 800;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.rt{
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.btnc{
+    height: 46px;
+    width: 261px;
+    margin-left:16px;
+    background-color:#3A8EF6 ;
+    border-radius: 100px;
+    border-color: #3A8EF6;
+    font-size: 18px;
+    font-weight: 600;
+    color: white 
+    
+}
+.card-list{
+ 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.card-conrainer{
+    background-color: #F2F7FF;
+}
+.ctc-card{
+padding-top: 40px;
+padding-bottom: 160px;
+background-color: #F2F7FF; 
+}
+/* book an appoinment */
+.book{
+     font-size: 22px;
+    font-weight: 400;
+    color: #00BFA5;
+    line-height: auto;
+    text-align: center;
+}
+.virtual{
+    background-color: #1678F2;
+    width: 990px;
+    height: 315px;
+    border-radius: 32px; 
+    margin: auto;
+}
+.st{
+    text-align: center;
+    padding-top: 80px;
+    font-size: 32px;
+    font-weight: 600;
+    color: white; 
+}
+.zx{
+    text-align: center;
+    padding-top: 130px;
+    color: white;
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.btns{
+      height: 56px;
+    width: 291px;
+    background-color:white;
+    border-radius: 100px;
+    border-color:white;
+    font-size: 18px;
+    font-weight: 600;
+    color: #3A8EF6;
+}
+.ktf{
+    padding-left:365px ;
+}
+/* Why Dr. Matthew Anderson? */
+.player{
+    padding-left: 130px;
+    padding-right: 130px;
+
+}
+.content{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+.mcv{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+}
+.bbtn{
+     height: 56px;
+    width: 291px;
+    background-color:#3A8EF6 ;
+    border-radius: 12px;
+    border-color: #3A8EF6;
+    font-size: 18px;
+    font-weight: 600;
+    color: white
+}
+.rtn{
+    text-align: center;
+}
+/* footer section card */
+footer{
+    color: white;
+   display: flex;
+   justify-content: center;
+   align-content: center;
+   gap: 100px;
+   margin-top: 170px;
+}
+.comp{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+.footers{
+    background-color: #1678F2;
+}
+.doctors{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
